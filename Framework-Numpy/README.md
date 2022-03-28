@@ -6,3 +6,5 @@
 - Saiba como formatar a saída
 - Use e manipule listas para agrupar dados
 - Conheça a biblioteca NumPy
+
+### OBS: Verificar a importação dos arquivos '.txts' do notebook. 
